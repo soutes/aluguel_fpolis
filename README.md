@@ -1,3 +1,5 @@
+![Média Preço por m² (3 Imobiliárias)](Media_Preco_M2_3Imobiliarias.png)
+
 # Scraper para busca do melhor imóvel em sites de imobiliárias em Florianópolis
 
 Um projeto para coletar imóveis residenciais de aluguel no site [ibagy.com.br](https://ibagy.com.br/aluguel/residencial/), implementado com **Scrapy** e AJAX/infinite scroll, e que:
